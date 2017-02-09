@@ -21,4 +21,13 @@ p{
   border-style: ridge;
   border-left: white;
   border-right: white;
+  font-family: serif;
+}
+.highlight{
+  background-color: red;
+  color: white;
+  font-family: serif;
+}
+.bold{
+  font-weight: bold;
 }
