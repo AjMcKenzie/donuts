@@ -1,0 +1,24 @@
+h1{
+  float: left;
+  font-size: 50px;
+  font-family: serif;
+}
+img{
+  float: auto;
+  width: 20%;
+  height: 20%;
+}
+p{
+  font-size: 30px;
+  font-family: serif;
+}
+.warning{
+  background-color: red;
+  color: white;
+  font-family: serif;
+}
+.box{
+  border-style: ridge;
+  border-left: white;
+  border-right: white;
+}
